@@ -1,9 +1,30 @@
-Teldrive Installer Pro
+Teldrive Auto Installer
+=======================
 
 Version 3.2
+-----------
 
-- improved installer
+Major improvements to installer structure.
+
+New features:
+
 - automatic dependency detection
-- automatic repo update
-- ngrok and cloudflare support
-- improved logging
+- automatic Git installation
+- automatic Go installation
+- automatic repository cloning
+- automatic project update
+- reinstall keeping configuration
+- full logging system
+- desktop launcher generator
+- ngrok support
+- cloudflare tunnel support
+- automatic port detection
+- automatic config detection
+- guided beginner mode
+
+Internal improvements:
+
+- optimized installer flow
+- improved error detection
+- improved log formatting
+- better dependency management
