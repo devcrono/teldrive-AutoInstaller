@@ -1,0 +1,9 @@
+Teldrive Installer Pro
+
+Version 3.2
+
+- improved installer
+- automatic dependency detection
+- automatic repo update
+- ngrok and cloudflare support
+- improved logging
